@@ -1,2 +1,7 @@
 streamlit
+seaborn
+pandas
+numpy
 matplotlib
+scikit-learn  # Si tu fais des analyses ou du machine learning
+plotly         # Si tu fais des visualisations interactives
